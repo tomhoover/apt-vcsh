@@ -1,11 +1,6 @@
 *
 !/.config
 !/.config/apt
-!/.config/apt/bethel.package-selections
-!/.config/apt/installed
-!/.config/apt/lemuel-installed
-!/.config/apt/lemuel.package-selections
-!/.config/apt/pkgs_auto.lst
-!/.config/apt/pkgs_manual.lst
+!/.config/apt/*
 !/.gitignore.d
 !/.gitignore.d/apt
